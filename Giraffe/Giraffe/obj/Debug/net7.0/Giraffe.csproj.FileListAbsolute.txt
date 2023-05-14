@@ -1,0 +1,15 @@
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/bin/Debug/net7.0/Giraffe
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/bin/Debug/net7.0/Giraffe.deps.json
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/bin/Debug/net7.0/Giraffe.runtimeconfig.json
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/bin/Debug/net7.0/Giraffe.dll
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/bin/Debug/net7.0/Giraffe.pdb
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.csproj.AssemblyReference.cache
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.AssemblyInfoInputs.cache
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.AssemblyInfo.cs
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.csproj.CoreCompileInputs.cache
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.dll
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/refint/Giraffe.dll
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.pdb
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/Giraffe.genruntimeconfig.cache
+/Users/kapildevunath/Desktop/Dev/myCSharpProjects/Giraffe/Giraffe/obj/Debug/net7.0/ref/Giraffe.dll
