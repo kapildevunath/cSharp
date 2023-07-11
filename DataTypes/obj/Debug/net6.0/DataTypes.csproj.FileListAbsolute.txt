@@ -1,0 +1,15 @@
+C:\dev\cSharp\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\dev\cSharp\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\dev\cSharp\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\dev\cSharp\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\dev\cSharp\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\dev\cSharp\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
