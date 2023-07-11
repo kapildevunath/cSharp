@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tR8GWMOMi3ct5laKv28025qzYOCTUlzMfp+4g76eT9he1mXdwgLI6Wucm8IZyYFuHR/K7LyxZ04KQtXTwmwpgg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\cSharp\\DataTypes\\DataTypes.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://libget/nuget/DerivcoLib/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nugetlib'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
